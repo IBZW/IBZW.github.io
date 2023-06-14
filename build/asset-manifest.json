@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/homepage/static/css/main.d942977b.css",
+    "main.js": "/homepage/static/js/main.64ffa022.js",
+    "static/media/hviwb1o6.png": "/homepage/static/media/hviwb1o6.16655787be2d71ef4d8a.png",
+    "static/media/hockey.png": "/homepage/static/media/hockey.6240873dcae14a40d429.png",
+    "static/media/water.png": "/homepage/static/media/water.575689db7a567967e805.png",
+    "static/media/campfire.png": "/homepage/static/media/campfire.0f44cdb105396679f10d.png",
+    "static/media/Naomi.jpg": "/homepage/static/media/Naomi.2247f39acad771932ae9.jpg",
+    "static/media/FatherGaston.jpg": "/homepage/static/media/FatherGaston.1b975248d9e3d9b3c6aa.jpg",
+    "static/media/indian-horse-ajuawak-kapashesit.webp": "/homepage/static/media/indian-horse-ajuawak-kapashesit.c979a6917b1180db2cea.webp",
+    "index.html": "/homepage/index.html",
+    "main.d942977b.css.map": "/homepage/static/css/main.d942977b.css.map",
+    "main.64ffa022.js.map": "/homepage/static/js/main.64ffa022.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d942977b.css",
+    "static/js/main.64ffa022.js"
+  ]
+}

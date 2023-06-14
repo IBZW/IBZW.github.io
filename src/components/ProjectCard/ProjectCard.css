@@ -1,0 +1,21 @@
+.project-card-main {
+    display: block;
+    border-radius: 10px;
+    box-shadow: 13px 13px 6px rgba(0,0,0,0.2);
+    padding: 30px;
+    margin-bottom: 30px;
+    background-color: #212223;
+    color: #f1f2f3;
+    font-size: 25px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    transition: none; /* Remove the transition effect */
+    width: 400px; /* Adjust the width as needed */
+}
+
+@media screen and (max-width: 1380px) {
+    .project-card-main {
+        width: 300px; /* Adjust the width for smaller screens */
+    }
+}
